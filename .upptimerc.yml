@@ -13,11 +13,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Hello!** Por aqui, você acompanha o status de funcionamento de nossos serviços."
+  introMessage: A atualização desses status são realizadas automaticamente, a cada 5 minutos!
   navbar:
    - title: Status
-     href: /
+     href: https://$OWNER.github.io/$REPO/
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
   baseUrl: /uptime
