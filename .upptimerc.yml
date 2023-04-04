@@ -20,8 +20,12 @@ status-website:
      href: /
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
-  baseUrl: /uptime
+  baseUrl: /$REPO
   name: DFranquias services
-
+  theme: dark #light|night|ocean
+assignees:
+  - Alex-Bruno
+  - gabrielroot
+  - Joao-V-A-Braga
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
