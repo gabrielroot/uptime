@@ -20,7 +20,7 @@ status-website:
      href: /
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
-  baseUrl: /$REPO
+  baseUrl: /uptime
   name: DFranquias services
   theme: dark #light|night|ocean
 assignees:
