@@ -1,4 +1,4 @@
-# [📈 Live Status](https://gabrielroot.github.io/uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://gabrielroot.github.io/uptime): <!--live status--> **Todos os sistemas estão operacionais**
 
 This repository contains the open-source uptime monitor and status page for [Gabriel Santos](https://gabrielroot.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
