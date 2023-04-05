@@ -5,7 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: JOY
     url: http://joy.rockfellerbrasil.com.br
-  - name: JOY_DEV
+  - name: JOY@DEV
     url: http://joydf.rockfellerbrasil.com.br
 
 status-website:
@@ -14,7 +14,7 @@ status-website:
   #cname: demo.upptime.js.org
   logoUrl: https://raw.githubusercontent.com/gabrielroot/uptime/master/assets/brand.png
   introTitle: "**Hello!** Por aqui, você acompanha o status de funcionamento dos nossos serviços."
-  introMessage: A atualização desses status são realizadas automaticamente, a cada 5 minutos!
+  introMessage: A verificação do status é realizada automaticamente, a cada 5 minutos!
   navbar:
    - title: Status
      href: https://$OWNER.github.io/$REPO/
@@ -22,7 +22,7 @@ status-website:
      href: https://github.com/$OWNER/$REPO
   baseUrl: /uptime
   name: DFranquias services
-  theme: dark #light|night|ocean
+  theme: night #light|dark|ocean
 
 assignees:
   - Alex-Bruno
@@ -42,15 +42,15 @@ i18n:
   incidentClosedAt: Fechado em
   incidentViewOnGitHub: Ver no GitHub
   incidentCommentSummary: Postado em $DATE por $AUTHOR
-  incidentBack: ← Voltar para a lista de incidents
+  incidentBack: ← Lista de incidents
   pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS posts
   liveStatus: Up Status
   overallUptime: "Tempo de atividade: $UPTIME"
-  overallUptimeTitle: Tempo geral de atividade
-  averageResponseTime: "Tempo médio de resposta: $TIMEms"
-  averageResponseTimeTitle: Tempo médio de resposta
-  sevelDayResponseTime: 7-dias tempo de resposta
+  overallUptimeTitle: Tempo de atividade
+  averageResponseTime: "Tempo de resposta médio: $TIMEms"
+  averageResponseTimeTitle: Tempo de resposta médio
+  sevelDayResponseTime: Tempo de resposta nos últimos 7 dias
   responseTimeMs: Tempo de resposta (ms)
   up: Up
   down: Down
@@ -79,8 +79,8 @@ i18n:
   scheduledMaintenance: Scheduled Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
   scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
+  startedAt: Iniciado em
+  startsAt: Inicia em
   duration: Duration
   durationMin: $DURATION minutes
   incidentCompleted: Completed
@@ -88,5 +88,5 @@ i18n:
   duration24H: 24h
   duration7D: 7d
   duration30D: 30d
-  duration1Y: 1y
-  durationAll: all
+  duration1Y: 1a
+  durationAll: todos
