@@ -6,7 +6,7 @@ sites:
   - name: JOY
     url: http://joy.rockfellerbrasil.com.br
   - name: JOY@DEV
-    url: http://joydf.rockfellerbrasil.com.br
+    url: http://joydev.rockfellerbrasil.com.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +19,7 @@ status-website:
    - title: Joy
      href: http://joy.rockfellerbrasil.com.br
    - title: Joy@Dev
-     href: http://joydf.rockfellerbrasil.com.br
+     href: http://joydev.rockfellerbrasil.com.br
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
   baseUrl: /uptime
@@ -91,4 +91,4 @@ i18n:
   duration7D: 7d
   duration30D: 30d
   duration1Y: 1a
-  durationAll: todos
+  durationAll: tudo
