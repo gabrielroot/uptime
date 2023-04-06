@@ -7,3 +7,9 @@
 
 # YAML
 *.yml linguist-detectable=true
+
+# PNG
+*.png linguist-detectable=true
+
+# PNG
+*.png linguist-detectable=true
