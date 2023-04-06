@@ -13,16 +13,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   logoUrl: https://raw.githubusercontent.com/gabrielroot/uptime/master/assets/brand.png
-  introTitle: "**Hello!** Por aqui, você acompanha o status de funcionamento dos nossos serviços."
+  introTitle: "**Hey!** Por aqui, você acompanha o status de funcionamento dos nossos serviços."
   introMessage: A verificação do status é realizada automaticamente, a cada 5 minutos!
   navbar:
-   - title: Status
-     href: https://$OWNER.github.io/$REPO/
+   - title: Joy
+     href: http://joy.rockfellerbrasil.com.br
+   - title: Joy@Dev
+     href: http://joydf.rockfellerbrasil.com.br
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
   baseUrl: /uptime
   name: DFranquias services
-  theme: night #light|dark|ocean
+  theme: dark #night|light|ocean
 
 assignees:
   - Alex-Bruno
@@ -45,18 +47,18 @@ i18n:
   incidentBack: ← Lista de incidents
   pastIncidents: Incidentes anteriores
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS posts
-  liveStatus: Up Status
+  liveStatus: Operacionais
   overallUptime: "Tempo de atividade: $UPTIME"
   overallUptimeTitle: Tempo de atividade
   averageResponseTime: "Tempo de resposta médio: $TIMEms"
   averageResponseTimeTitle: Tempo de resposta médio
   sevelDayResponseTime: Tempo de resposta nos últimos 7 dias
   responseTimeMs: Tempo de resposta (ms)
-  up: Up
-  down: Down
+  up: Ok
+  down: Fora do ar
   degraded: Degraded
   ms: ms
-  loading: Loading
+  loading: Carregando
   navGitHub: GitHub
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceeded
