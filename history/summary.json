@@ -4,7 +4,7 @@
     "url": "http://joy.rockfellerbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/joy.rockfellerbrasil.com.br.ico",
     "slug": "joy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1743,
     "timeDay": 1112,
     "timeWeek": 1482,
-    "timeMonth": 1743,
+    "timeMonth": 1428,
     "timeYear": 1743,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "http://joydev.rockfellerbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/joydev.rockfellerbrasil.com.br.ico",
     "slug": "joy-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1317,
     "timeDay": 1162,
     "timeWeek": 1999,
-    "timeMonth": 1317,
+    "timeMonth": 1316,
     "timeYear": 1317,
     "dailyMinutesDown": {}
   }
