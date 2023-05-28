@@ -54,8 +54,8 @@ i18n:
   averageResponseTimeTitle: Tempo de resposta médio
   sevelDayResponseTime: Histórico do tempo de resposta
   responseTimeMs: Tempo de resposta (ms)
-  up: Ok
-  down: Fora do ar
+  up: Up
+  down: Dowm
   degraded: Degraded
   ms: ms
   loading: Carregando
