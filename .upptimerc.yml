@@ -52,7 +52,7 @@ i18n:
   overallUptimeTitle: Tempo de atividade
   averageResponseTime: "Tempo de resposta médio: $TIMEms"
   averageResponseTimeTitle: Tempo de resposta médio
-  sevelDayResponseTime: Tempo de resposta nos últimos 7 dias
+  sevelDayResponseTime: Histórico do tempo de resposta
   responseTimeMs: Tempo de resposta (ms)
   up: Ok
   down: Fora do ar
