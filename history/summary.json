@@ -22,17 +22,17 @@
     "url": "http://joydev.rockfellerbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/joydev.rockfellerbrasil.com.br.ico",
     "slug": "joy-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1618,
-    "timeDay": 3501,
-    "timeWeek": 2070,
-    "timeMonth": 1838,
-    "timeYear": 1618,
+    "time": 1615,
+    "timeDay": 2792,
+    "timeWeek": 2000,
+    "timeMonth": 1825,
+    "timeYear": 1615,
     "dailyMinutesDown": {}
   }
 ]
